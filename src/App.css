@@ -1,0 +1,32 @@
+body{
+    background-color: lightblue;
+
+}
+.Signup-Form{
+   border-radius: 20px;
+   background-color:rgb(241, 239, 239) ;
+   padding: 20px;
+   width: 100%;
+   text-align: center;
+}
+.Authenicate-Form{
+    display: flex;
+    align-items: center;
+    
+   
+   
+
+}
+input{
+width: 20%;
+margin:8px ;
+display: inline-block;
+border: 2px solid ;
+border-radius: 20%;
+
+}
+button{
+    color: lightblue;
+
+   
+}
